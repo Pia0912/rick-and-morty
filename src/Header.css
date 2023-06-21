@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    gap: 220px;
+    border: 10px dotted #3ab54a;
+    margin: 20px;
+}
+
+h1{
+    color: #3ab54a;
+    text-align: center;
+    font-family: "Marker Felt";
+}
+
+img {
+    height: 100px;
+    width: auto;
+}
